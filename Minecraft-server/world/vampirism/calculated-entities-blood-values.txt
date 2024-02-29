@@ -1,0 +1,12 @@
+#Dynamically calculated blood values - DON'T EDIT
+{
+  "alexsmobs:raccoon": 5,
+  "alexsmobs:grizzly_bear": 15,
+  "duneons:pigchest": 6,
+  "alexsmobs:seal": 11,
+  "alexsmobs:capuchin_monkey": 3,
+  "iceandfire:hippocampus": 15,
+  "minecraft:strider": 13,
+  "alexsmobs:tasmanian_devil": 3,
+  "alexsmobs:snow_leopard": 15
+}
